@@ -1,0 +1,21 @@
+Var a, b, c, dd
+
+Begin
+a = 5
+b = a + 3
+c = (a + b) * 2
+dd = (a + b) / c - a * b
+End
+
+a = 1&&
+c = a *+-8700 b
+dd = (a + bhgihjk789) / b
+
+abc123 456
+
+:
+67ddd
+`
+"?
+:=
+$
