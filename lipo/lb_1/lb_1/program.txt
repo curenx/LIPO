@@ -1,8 +1,7 @@
-Var a, b, c, dd
-
+Var x, y, z
 Begin
-a = 5
-b = a + 3
-c = (a + b) * 2
-dd = (a + b) / c - a * b
+x = 10
+y = 5 + (2 * x)
+z = -y + x
 End
+.

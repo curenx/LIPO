@@ -1,6 +1,8 @@
-Var x, y, z
+Var a, , b
 Begin
-x := 10
-y = 5 + (2 * x
-c = y + 1
+c = 10
+a = b + c
+a = (b + c
+a = @
 End
+.
